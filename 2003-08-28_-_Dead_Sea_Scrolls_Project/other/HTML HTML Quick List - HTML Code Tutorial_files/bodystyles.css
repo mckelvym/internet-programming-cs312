@@ -1,0 +1,12 @@
+BODY {
+	COLOR: black; BACKGROUND-COLOR: white
+}
+A:link {
+	COLOR: blue
+}
+A:visited {
+	COLOR: purple
+}
+A:active {
+	COLOR: red
+}

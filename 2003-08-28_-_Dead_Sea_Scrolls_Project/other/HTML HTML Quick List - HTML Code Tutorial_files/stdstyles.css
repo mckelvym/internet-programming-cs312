@@ -1,0 +1,162 @@
+.topofpage {
+	BORDER-RIGHT: 0px solid; PADDING-RIGHT: 8pt; BORDER-TOP: 0px solid; PADDING-LEFT: 8pt; MARGIN-BOTTOM: 2pt; PADDING-BOTTOM: 8pt; BORDER-LEFT: 0px solid; PADDING-TOP: 8pt; BORDER-BOTTOM: 0px solid
+}
+.navbar {
+	PADDING-RIGHT: 4pt; BORDER-TOP: black 1px solid; PADDING-LEFT: 4pt; BORDER-LEFT-WIDTH: 0px; BORDER-LEFT-COLOR: black; PADDING-BOTTOM: 4pt; MARGIN: 10px 0px 5px; PADDING-TOP: 4pt; BORDER-BOTTOM: black 1px solid; BACKGROUND-COLOR: #99ccff; BORDER-RIGHT-WIDTH: 0px; BORDER-RIGHT-COLOR: black
+}
+DIV.navbar {
+	MARGIN-TOP: 30pt
+}
+.navbar .treelink {
+	FONT-WEIGHT: bold; FONT-FAMILY: sans-serif
+}
+.navbar .prevnextlink {
+	FONT-WEIGHT: bold
+}
+.navbar CODE {
+	FONT-WEIGHT: bold
+}
+.navbar A:link {
+	COLOR: #0000cc
+}
+.navbar A:visited {
+	COLOR: purple
+}
+.navbar A:active {
+	COLOR: red
+}
+.valuedesc {
+	FONT-WEIGHT: 200
+}
+.bigletters {
+	FONT-WEIGHT: 700; FONT-SIZE: 125%
+}
+.tagengname {
+	FONT-FAMILY: sans-serif
+}
+.tagexample {
+	FONT-FAMILY: monospace
+}
+.attdescription {
+	FONT-WEIGHT: normal; FONT-SIZE: 70%; FONT-FAMILY: sans-serif
+}
+.attexample {
+	FONT-FAMILY: monospace
+}
+.parentmarkup {
+	FONT-SIZE: 80%
+}
+.path {
+	FONT-SIZE: 125%; FONT-FAMILY: 'sans-serif'
+}
+A.referback {
+	FONT-SIZE: 125%; FONT-FAMILY: sans-serif
+}
+.sidenote {
+	FONT-SIZE: 110%; COLOR: #000000; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #66ff00; TEXT-ALIGN: center
+}
+.sidenote A:link {
+	COLOR: red
+}
+.sidenote A:visited {
+	COLOR: red
+}
+PRE.exampletext {
+	COLOR: black; BORDER-TOP-STYLE: solid; BORDER-RIGHT-STYLE: solid; WHITE-SPACE: pre; BORDER-LEFT-STYLE: solid; BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM-STYLE: solid
+}
+.examplenumbers {
+	FONT-WEIGHT: 600; COLOR: teal
+}
+PRE.examplenumbers {
+	BORDER-LEFT-COLOR: white; BORDER-BOTTOM-COLOR: white; BORDER-TOP-STYLE: solid; BORDER-TOP-COLOR: white; BORDER-RIGHT-STYLE: solid; WHITE-SPACE: pre; BORDER-LEFT-STYLE: solid; BACKGROUND-COLOR: white; BORDER-RIGHT-COLOR: white; BORDER-BOTTOM-STYLE: solid
+}
+PRE.exampletext I {
+	COLOR: gray
+}
+EM.examplecode {
+	FONT-WEIGHT: bold; COLOR: #009999; FONT-STYLE: normal; FONT-FAMILY: monospace
+}
+UL.tagsupp {
+	MARGIN-TOP: 0ex; FONT-SIZE: 70%; MARGIN-BOTTOM: 1ex; FONT-FAMILY: sans-serif
+}
+.HeadLine {
+	FONT-SIZE: 120%; FONT-FAMILY: sans-serif
+}
+.inset {
+	FONT-SIZE: 80%; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #99ccff
+}
+.inset H1 {
+	FONT-SIZE: 150%
+}
+.inset H2 {
+	FONT-SIZE: 110%
+}
+.quotes {
+	FONT-SIZE: 80%; FONT-FAMILY: sans-serif; TEXT-ALIGN: center
+}
+.quotes H2 {
+	FONT-SIZE: 110%
+}
+.quotes A {
+	FONT-SIZE: 90%; FONT-STYLE: italic
+}
+DL.def DT {
+	FONT-WEIGHT: 800; FONT-SIZE: 120%
+}
+DL.def DD {
+	PADDING-BOTTOM: 7pt
+}
+.widetable TH {
+	PADDING-LEFT: 25px
+}
+.widetable TD {
+	PADDING-LEFT: 25px
+}
+.leftcell {
+	PADDING-LEFT: 0pt
+}
+.gen {
+	BORDER-RIGHT: blue 0pt; BORDER-TOP: blue 3pt solid; FONT-WEIGHT: bold; FONT-SIZE: 12pt; MARGIN-BOTTOM: 10pt; MARGIN-LEFT: 10pt; BORDER-LEFT: blue 0pt; MARGIN-RIGHT: 10pt; BORDER-BOTTOM: blue 3pt solid; FONT-FAMILY: sans-serif
+}
+.searchinput {
+	FONT-SIZE: 8pt
+}
+.searchinput SELECT {
+	FONT-SIZE: 8pt
+}
+.searchinput INPUT {
+	FONT-SIZE: 8pt
+}
+.unframe {
+	FONT-SIZE: 130%; FONT-FAMILY: sans-serif
+}
+.seealso {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 2pt; BORDER-TOP: black 1px solid; PADDING-LEFT: 2pt; FONT-SIZE: 10pt; MARGIN-BOTTOM: 8pt; PADDING-BOTTOM: 2pt; BORDER-LEFT: black 1px solid; PADDING-TOP: 2pt; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: #33cc00
+}
+.seealso UL {
+	MARGIN-TOP: 1pt
+}
+.superem {
+	PADDING-RIGHT: 4pt; PADDING-LEFT: 4pt; BORDER-LEFT-COLOR: #00ff00; MARGIN-BOTTOM: 10pt; BORDER-BOTTOM-COLOR: #00ff00; PADDING-BOTTOM: 4pt; MARGIN-LEFT: 15pt; BORDER-TOP-STYLE: ridge; BORDER-TOP-COLOR: #00ff00; MARGIN-RIGHT: 15pt; PADDING-TOP: 4pt; BORDER-RIGHT-STYLE: ridge; BORDER-LEFT-STYLE: ridge; BORDER-RIGHT-COLOR: #00ff00; BORDER-BOTTOM-STYLE: ridge
+}
+.superem H2 {
+	MARGIN-TOP: 0px; FONT-SIZE: 120%; COLOR: #330099; FONT-FAMILY: sans-serif
+}
+.seealso H2 {
+	MARGIN-TOP: 0px; FONT-SIZE: 110%; FONT-FAMILY: sans-serif
+}
+.formenhance {
+	BORDER-RIGHT: blue 2pt solid; BORDER-TOP: blue 2pt solid; MARGIN-LEFT: 10%; BORDER-LEFT: blue 2pt solid; MARGIN-RIGHT: 10%; BORDER-BOTTOM: blue 2pt solid; FONT-FAMILY: sans-serif; TEXT-ALIGN: center
+}
+.suppcontents {
+	FONT-SIZE: 85%; COLOR: black; MARGIN-RIGHT: 10pt; FONT-FAMILY: sans-serif; BACKGROUND-COLOR: yellow
+}
+.suppcontents H2 {
+	FONT-SIZE: 105%
+}
+.suppcontents LI {
+	LIST-STYLE-TYPE: none
+}
+CITE {
+	FONT-SIZE: 10pt; FONT-FAMILY: sans-serif
+}
