@@ -1,0 +1,1 @@
+write applet that draws a circle in orange, fills the circle with blue and draws a string in the center of the circle.
